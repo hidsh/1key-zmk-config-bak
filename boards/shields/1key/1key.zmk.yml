@@ -1,0 +1,8 @@
+file_format: "1"
+id: 1key
+name: 1key keyboard
+type: shield
+url: https://github.com/xxx/1key-zmk-config
+requires: [seeed_xiao]
+features:
+  - keys
